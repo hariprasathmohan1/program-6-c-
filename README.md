@@ -2,11 +2,11 @@
 C module 6
 EXP.No:6-c-Student information using structure.
 
-Date:19/10/2025
+Date:26.03.2026
 
-Name: VASANTH S
+Name: HARI PRASATH M
 
-Ref no: 25017538
+Ref no: 25018172
 
 AIM:
 Create a C Program to store the student information and display it using structure.
